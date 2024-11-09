@@ -1,0 +1,2 @@
+# SQL-COMANDO-SELECT
+09/11/2024 - Aula de SQL - Aprendendo sobre os comandos SELECT FROM / SELECT LIMIT / SELECT AS / ORDER BY
